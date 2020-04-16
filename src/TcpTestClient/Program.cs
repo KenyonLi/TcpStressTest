@@ -17,7 +17,7 @@ namespace TcpTestClient
 
 			//var remote = new IPEndPoint(IPAddress.Loopback, 3400);
 			var host = "localhost";
-			var port = 3400;
+			var port = 19121;
 
 			if (args.Length == 2)
 			{
